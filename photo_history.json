@@ -1,0 +1,23 @@
+[
+  {
+    "user_id": "7555835542",
+    "timestamp": "2026-04-14T22:20:30.453646",
+    "photo_path": "photos/user_7555835542_20260414_222030.jpg",
+    "result": "Acne",
+    "confidence": 0.8921574950218201
+  },
+  {
+    "user_id": "7555835542",
+    "timestamp": "2026-04-14T22:21:35.579038",
+    "photo_path": "photos/user_7555835542_20260414_222135.jpg",
+    "result": "normal",
+    "confidence": 0.9989653825759888
+  },
+  {
+    "user_id": "7555835542",
+    "timestamp": "2026-04-14T22:30:47.241592",
+    "photo_path": "photos/user_7555835542_20260414_223046.jpg",
+    "result": "Acne",
+    "confidence": 0.5742273926734924
+  }
+]
