@@ -1,0 +1,1 @@
+skin_classifier.pth весил больше 25 mb поэтому будет только train
